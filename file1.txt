@@ -2,7 +2,3 @@
 
 Initial content of first document.
 Addition content of first document.
-
-# Third file
-
-file3.txt
